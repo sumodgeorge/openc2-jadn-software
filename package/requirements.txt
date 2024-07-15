@@ -6,3 +6,4 @@ jsonschema==2.6.0
 lxml==4.6.3
 protobuf==3.5.2.post1
 xmltodict==0.11.0
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
